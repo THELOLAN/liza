@@ -1,11 +1,11 @@
 {
-    "name": "Liza-Mwol",
-    "description": "Liza Mwol is the Modified Version of WhatsAsena, Made By @Chunkinde_padayali with Baileys.",
+    "name": "suni-annan",
+    "description": "suni-annan is the Modified Version of WhatsAsena, Made By @Chunkinde_padayali with Baileys.",
     "logo": "https://i.imgur.com/2nYs8dN.jpg",
     "keywords": ["whatsapp", "userbot", "Liza", "WhatsAsena", "mwol", "bot", "ai"],
-    "repository": "https://github.com/Chunkindepadayali/LIZA-MWOL",
-    "website":   "https://github.com/Chunkindepadayali/LIZA-MWOL",
-    "success_url": "https://github.com/Chunkindepadayali/LIZA-MWOL",
+    "repository": "https://github.com/Chunkindepadayali/suni-annan",
+    "website":   "https://github.com/Chunkindepadayali/suni-annan",
+    "success_url": "https://github.com/Chunkindepadayali/suni-annan",
     "stack": "container",
     "env": {
         "LIZA_SESSION": {
@@ -150,7 +150,7 @@
             "value": "39999600"
         },
         "WORK_TYPE": {
-            "description": "Liza Mwol Working Type. If you use “public”, everyone can use the bot. Else if you use “private”, only you can use your bot.",
+            "description": "suni-annan Working Type. If you use “public”, everyone can use the bot. Else if you use “private”, only you can use your bot.",
             "required": true,
             "value": "public"
         },
