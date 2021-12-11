@@ -128,13 +128,13 @@ All setvars are
 
      *happy using Lizamwol bot 🧚‍♂️*
 
-*Editing And Devaloper : safwan-safwan*
+*Editing And Devaloper : Nithin-Fayas*
 
-*Erorr Fixing : safwan Ser💘*
+*Erorr Fixing : Fayas Ser💘*
 
 *Supporting : Black mods*
 
-*User Support : safwan*
+*User Support : Nithin*
 
       ═════💢💢═════
 
