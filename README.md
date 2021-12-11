@@ -41,8 +41,8 @@ $ node Liza.js
       
 ```js
 SETUP
-$ git clone https://github.com/Chunkindepadayali/suni-annan
-$ cd suni-annan
+$ git clone https://github.com/THELOLAN/liza
+$ cd liza
 $ npm i
 $ node Liza.js
 ```
